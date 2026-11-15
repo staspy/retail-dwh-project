@@ -1,4 +1,4 @@
-# Учебный DWH "Розница" — Yandex Cloud
+# DWH "Розница" — Yandex Cloud
 
 Data Warehouse для сети магазинов: данные касс, программы лояльности и интернет-магазина
 выгружаются в Object Storage (staging), Airflow переносит и трансформирует их в ClickHouse
